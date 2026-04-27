@@ -7,5 +7,7 @@ Release/
 *.bin
 *.hex
 *.map
+*.project
+*.cproject
 .settings/
 .metadata/
