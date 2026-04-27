@@ -9,5 +9,5 @@ int main(void)
     Port_Init();
     Os_Init();
 
-    Start_Os();
+    StartOS();
 }
